@@ -2,7 +2,7 @@
 Creates generic image place holders.
 
 ## Usage
-placeholder width height
+`placeholder width height`
 
 ## TODOs
 - Specify image format (png, gif, jpg)
